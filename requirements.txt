@@ -4,3 +4,4 @@ pickleshare
 Flask
 Jinja2
 scikit-learn
+gunicorn
